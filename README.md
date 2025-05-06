@@ -48,7 +48,7 @@ Eğer projeye katkıda bulunmak istiyorsanız, aşağıdaki adımları izleyebil
 
 Bu proje, [MIT Lisansı](https://opensource.org/licenses/MIT) ile lisanslanmıştır.
 
-##FOR ENGLISH
+-----------------------------------------------------------------------------------------------------------------------------## FOR ENGLISH ##--------------------------------------------------------------------------------------------------------------------------------
 
 # Student Grade Tracking System
 
